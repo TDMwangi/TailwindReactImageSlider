@@ -37,7 +37,3 @@ Add the following to src/index.css:
 ```
 
 ![image info](https://github.com/TDMwangi/tailwind-react-image-slider/blob/main/public/img/fullscreen.png)
-
-## _Mobile view:_
-
-![image info](https://github.com/TDMwangi/tailwind-react-image-slider/blob/main/public/img/mobile.png)
