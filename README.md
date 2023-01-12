@@ -22,7 +22,7 @@ Create a Tailwind config file:
 npx tailwindcss init -p
 ```
 
-Configure your template paths:
+Configure the template paths:
 
 ```sh
 content: ["./src/**/*.{js,jsx,ts,tsx}",],
@@ -36,8 +36,8 @@ Add the following to src/index.css:
 @tailwind utilities;
 ```
 
-![image info](./img/18.png)
+![image info](https://github.com/TDMwangi/tailwind-react-image-slider/blob/main/public/img/fullscreen.png)
 
 ## _Mobile view:_
 
-![image info](./img/18.png)
+![image info](https://github.com/TDMwangi/tailwind-react-image-slider/blob/main/public/img/mobile.png)
